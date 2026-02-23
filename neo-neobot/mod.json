@@ -1,0 +1,20 @@
+{
+	"geode": "4.2.0",
+	"gd": {
+		"android": "2.2081"
+	},
+	"version": "1.0.0",
+	"id": "neo.neobot",
+	"name": "NeoBot",
+	"developer": "Manus AI",
+	"description": "A fully functional macro bot for Geometry Dash 2.2081 on Android, inspired by xdBot.",
+	"dependencies": [],
+	"settings": {
+		"macro_folder": {
+			"name": "Macro Save Location",
+			"type": "folder",
+			"default": "{mod_dir}/macros"
+		}
+	},
+	"tags": ["gameplay", "utility", "bot", "android"]
+}
